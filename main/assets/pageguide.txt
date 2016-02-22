@@ -1,0 +1,7 @@
+the back ground for the page
+the icon which will be represent in the page list
+page number
+
+the text
+
+(recommend somewhere around 200 words)

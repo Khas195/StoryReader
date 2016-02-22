@@ -1,0 +1,11 @@
+The number of books
+Book Title 1
+Author 1
+Icon 1
+background for the page list 1
+the folder that contain the text file for the book in asset
+Book Title 2
+Author 2
+Icon 2
+background for the page list 2
+the folder that contain the text file for the book in asset
